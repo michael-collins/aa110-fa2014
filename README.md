@@ -1,5 +1,6 @@
 #ids110-fa2014
 Interdisciplinary Digital Media Studio I
-______
 
-See syllabus.md
+See syllabus.md for course details.
+
+Make sure to watch this git repo to be made aware of any changes.
