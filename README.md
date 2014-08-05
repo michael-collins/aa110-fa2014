@@ -1,5 +1,5 @@
 #ids110-fa2014
-Interdisciplinary Digital Media Studio I
+##Interdisciplinary Digital Media Studio I
 
 See syllabus.md for course details.
 
