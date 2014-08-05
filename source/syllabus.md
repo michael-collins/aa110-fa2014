@@ -1,7 +1,30 @@
+---
+    # Builtin values
+    destination: syllabus.html
+
+    # Meta Data
+    title: Syllabus
+    author:
+        - Michael Collins
+
+    # Settings overrides
+    settings:
+        enabled_extensions:
+        - extra
+        - github
+        - toc
+        - headerid
+        - smarty(smart_quotes=False) # smart quotes interferes with attr_list
+        - meta
+        - wikilinks
+        - admonition
+        - codehilite(guess_lang=False,pygments_style=github)
+---
+
 
 #Syllabus
 
-**Section:** 001
+**Section:** 002
 
 **Course Credits:** 3
 
@@ -30,10 +53,10 @@
 
 ## Course Objectives
 **Upon completing the course each student will have:**
-- Completed technical/conceptual projects (assignments) as set out by the instructor
-- Assessed projects in relation to the stated objectives of the assignment
-- Developed a language suitable for descriptive and critical understandings of their assignments and broader themes related to interdisciplinarity digital design
-- Participated actively in all group work and ­discussions
+* Completed technical/conceptual projects (assignments) as set out by the instructor
+* Assessed projects in relation to the stated objectives of the assignment
+* Developed a language suitable for descriptive and critical understandings of their assignments and broader themes related to interdisciplinarity digital design
+* Participated actively in all group work and ­discussions
 
 ## Course Requirements
 Each class will meet in 401 Paterson. Attendance is mandatory; as this time will be used for
