@@ -66,6 +66,42 @@ LATE EXERCISES AND PROJECTS WILL NOT BE GRADED. Attendance is mandatory and prof
 | D               |        60       |
 | F               |        0        |
 
+A (Outstanding)
+Outstanding work that exceeds the basic project requirements and demonstrates profound
+insight, originality and understanding.
+
+A-­ (Excellent)
+Excellent work that exceeds the basic project requirements and demonstrates insight and
+originality.
+
+B+ (Superior)
+Superior work that demonstrates advanced understanding of the course material and exceeds
+the basic project requirements.
+
+B (Very Good)
+Very good work that demonstrates a thorough understanding of the course material and far exceeds
+the basic project requirements.
+
+B-­ (Good)
+Good work that demonstrates a thorough understanding of the course material and exceeds the
+basic project requirements.
+
+C+ (Satisfactory)
+Satisfactory work that meets basic project requirements and demonstrates good understanding
+of the material.
+
+C (Satisfactory)
+Satisfactory work that meets basic project requirements and somewhat demonstrates good understanding
+of the material.
+
+D (Poor)
+Satisfactory work that meets basic project requirements and demonstrates some understanding
+of the material (not a thorough understanding).
+
+F (Failure)
+Unsatisfactory work which shows insufficient effort or comprehension.
+
+
 ###Exercises
 
 ###Projects
