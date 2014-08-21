@@ -1,28 +1,4 @@
----
-    # Builtin values
-    destination: syllabus.html
-
-    # Meta Data
-    title: Syllabus
-    author:
-        - Michael Collins
-
-    # Settings overrides
-    settings:
-        enabled_extensions:
-        - extra
-        - github
-        - toc
-        - headerid
-        - smarty(smart_quotes=False) # smart quotes interferes with attr_list
-        - meta
-        - wikilinks
-        - admonition
-        - codehilite(guess_lang=False,pygments_style=github)
----
-
-
-#Syllabus
+#A&A 110: Syllabus
 
 **Section:** 002
 
@@ -136,6 +112,21 @@ Unsatisfactory work which shows insufficient effort or comprehension.
 | Week          | Topic           |  Assignment   |
 | ------------- |:-------------:| --------------- |
 | 1             | Topic 1   | Image Assignment    |
+| 2             | Topic 1   | Image Assignment    |
+| 3             | Topic 1   | Image Assignment    |
+| 4             | Topic 1   | Image Assignment    |
+| 5             | Topic 1   | Image Assignment    |
+| 6             | Topic 1   | Image Assignment    |
+| 7             | Topic 1   | Image Assignment    |
+| 8             | Topic 1   | Image Assignment    |
+| 9             | Topic 1   | Image Assignment    |
+| 10            | Topic 1   | Image Assignment    |
+| 11            | Topic 1   | Image Assignment    |
+| 12            | Topic 1   | Image Assignment    |
+| 13            | Topic 1   | Image Assignment    |
+| 14            | Topic 1   | Image Assignment    |
+| 15            | Topic 1   | Image Assignment    |
+| 16            | Topic 1   | Image Assignment    |
 
 ##Safety Information
 Students in the School of Visual Arts may find themselves working in the shop or in their studios or classrooms using a variety of power and hand held equipment, which may cause injury. Students should use the shop only after having received an orientation in the use of such equipment and when supervised by faculty or shop personnel. Should any injuries occur, in the shop, studios, or classrooms in the School of Visual Arts, please report them to Matthew Olsen, Art Shop Coordinator, Room 108­A Visual Arts Building, Phone: 814­865­3962, email:mjo5165@psu.edu.
