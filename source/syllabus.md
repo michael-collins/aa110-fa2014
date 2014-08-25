@@ -25,24 +25,24 @@
 1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 2/3 or FireWire 800.
 2. Portable Headphones with standard 3.5mm jack
 
-## Recommended Texts
+## Software
+Autodesk software is free to students: [Autodesk.com](http://www.autodesk.com/education/home)
+
+Supplemental software training is available at lynda.psu.edu and digitaltutors.com
+
+## Texts
+There are no texts required to be purchased. I will provide handouts for readings. 
 
 ## Course Objectives
 **Upon completing the course each student will have:**
+
 * Completed technical/conceptual projects (assignments) as set out by the instructor
 * Assessed projects in relation to the stated objectives of the assignment
 * Developed a language suitable for descriptive and critical understandings of their assignments and broader themes related to interdisciplinarity digital design
 * Participated actively in all group work and ­discussions
 
 ## Course Requirements
-Each class will meet in 401 Paterson. Attendance is mandatory; as this time will be used for
-critiques, reading discussions, slide presentations, video screenings and the dissemination of
-general information. These sessions will at all times emphasize critical analysis and in­class
-discussion. In terms of studio production, whole class meetings may review work­in­progress;
-assess ongoing technical concerns; assist with immediate needs of a project concept and
-execution all the while continuing to develop a language appropriate for evaluation and critique.
-While there will be a limited amount of in­class time to experiment and complete work, you will
-be required to spend many hours working outside of class­time.
+Each class will meet in 401 Paterson. Attendance is mandatory; as this time will be used for critiques, reading discussions, presentations, video screenings, collaborative or group work, and the dissemination of general information. These sessions will at all times emphasize critical analysis and in­class discussion. In terms of studio production, whole class meetings may review work­in­progress; assess ongoing technical concerns; assist with immediate needs of a project concept and execution all the while continuing to develop a language appropriate for evaluation and critique. While there will be a limited amount of in­class time to experiment and complete work, you will be required to spend many hours working outside of class­ time.
 
 ## Course Prerequisites
 Prerequisite: Prerequisite or concurrent: A&A 101, A&A 102S
@@ -53,6 +53,16 @@ LATE EXERCISES AND PROJECTS WILL NOT BE GRADED. Attendance is mandatory and prof
 
 ##Grading
 
+###Exercises
+Approximately 5 exercises (100pts total)
+
+###Projects
+1 Final project (100pts Total)
+
+###Class Participation
+Participation (100pts Total)
+
+###Grading Scale
 | Letter Grade    | Minimum Percent |
 | :-------------: |:---------------:|
 | A               |        94       |
@@ -99,34 +109,6 @@ of the material (not a thorough understanding).
 
 F (Failure)
 Unsatisfactory work which shows insufficient effort or comprehension.
-
-
-###Exercises
-
-###Projects
-
-###Class Participation
-
-#Schedule:
-
-| Week          | Topic           |  Assignment   |
-| ------------- |:-------------:| --------------- |
-| 1             | Topic 1   | Image Assignment    |
-| 2             | Topic 1   | Image Assignment    |
-| 3             | Topic 1   | Image Assignment    |
-| 4             | Topic 1   | Image Assignment    |
-| 5             | Topic 1   | Image Assignment    |
-| 6             | Topic 1   | Image Assignment    |
-| 7             | Topic 1   | Image Assignment    |
-| 8             | Topic 1   | Image Assignment    |
-| 9             | Topic 1   | Image Assignment    |
-| 10            | Topic 1   | Image Assignment    |
-| 11            | Topic 1   | Image Assignment    |
-| 12            | Topic 1   | Image Assignment    |
-| 13            | Topic 1   | Image Assignment    |
-| 14            | Topic 1   | Image Assignment    |
-| 15            | Topic 1   | Image Assignment    |
-| 16            | Topic 1   | Image Assignment    |
 
 ##Safety Information
 Students in the School of Visual Arts may find themselves working in the shop or in their studios or classrooms using a variety of power and hand held equipment, which may cause injury. Students should use the shop only after having received an orientation in the use of such equipment and when supervised by faculty or shop personnel. Should any injuries occur, in the shop, studios, or classrooms in the School of Visual Arts, please report them to Matthew Olsen, Art Shop Coordinator, Room 108­A Visual Arts Building, Phone: 814­865­3962, email:mjo5165@psu.edu.
